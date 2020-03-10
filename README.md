@@ -3,6 +3,20 @@ kurento-group-call
 
 ## @Author: Timothy Lam
 
+Installing kurento-group-call
+==================
+```
+```
+
+```
+```
+
+```
+```
+
+Running kurento-group-cal
+==================
+
 ```
 mvn -U clean spring-boot:run
 ```
