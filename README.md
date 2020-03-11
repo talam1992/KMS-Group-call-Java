@@ -52,6 +52,13 @@ sudo netstat -tupan | grep kurento
 > tcp6  0  0 :::8888  :::*  LISTEN  1270/kurento-media-server
 ```
 
+Running kurento-media-server docker 
+==================
+
+```
+docker run -d -p 8888:8888 kurento/kurento-media-server
+```
+
 Running kurento-group-call
 ==================
 
@@ -65,4 +72,8 @@ mvn -U clean spring-boot:run -Dkms.url=ws://kms_host:kms_port/kurento
 
 ```
 docker run --network=host -t --name <option> -p 8443:8888 <image>
+```
+
+```
+docker run --expose=[portnumber] -p [portnumber]:[portnumber] <image>
 ```
