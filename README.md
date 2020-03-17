@@ -83,8 +83,9 @@ docker run --expose=[portnumber] -p [portnumber]:[portnumber] <image>
 ###### Kurento Group Call Login
 ![Kurento Group Call Login](img/kurento-group-call-login.png)
 
-###### Kurento Group Call Ubuntu
+###### Kurento Group Call between Ubuntu and Windows
 ![Kurento Group Call Ubuntu](img/kurento-group-call-ubuntu.png)
+![Kurento Group Call Windows](img/kurento-group-call-windows.jpg)
 
 ###### Kurento QoE Rating Website
 ![QoE Rating Website](img/kurento-rating-website.png)
