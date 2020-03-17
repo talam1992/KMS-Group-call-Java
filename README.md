@@ -80,4 +80,4 @@ docker run --network=host -t --name <option> -p 8443:8888 <image>
 docker run --expose=[portnumber] -p [portnumber]:[portnumber] <image>
 ```
 
-<img src="img/kurento-group-call-ubuntu" name="Kurento Group Call Ubuntu">
+<img src="img/kurento-group-call-ubuntu.png" name="Kurento Group Call Ubuntu">
