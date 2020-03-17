@@ -1,7 +1,9 @@
 kurento-group-call
 ==================
 
-## @Author: Timothy Lam
+#### Please get permision befor use 
+
+## @Author: Timothy Lam lamt3@lsbu.ac.uk
 
 Local Installation for kurento-group-call
 ==================
