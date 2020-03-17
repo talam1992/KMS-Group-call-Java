@@ -87,4 +87,4 @@ docker run --expose=[portnumber] -p [portnumber]:[portnumber] <image>
 ![Kurento Group Call Windows](img/kurento-group-call-windows.png)
 
 ###### Kurento QoE Rating Website
-![QoE Rating Website](img/kurento-rating-website-ubuntu.png)
+![QoE Rating Website](img/kurento-rating-website.png)
