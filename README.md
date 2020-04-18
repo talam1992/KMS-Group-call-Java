@@ -1,7 +1,7 @@
 kurento-group-call
 ==================
 
-#### Please get permision befor use 
+#### Please get permision before use 
 
 ## @Author: Timothy Lam lamt3@lsbu.ac.uk
 
