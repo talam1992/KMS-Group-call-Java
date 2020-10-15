@@ -122,6 +122,17 @@ function onExistingParticipants(msg) {
 	msg.data.forEach(receiveVideo);
 }
 
+function muteMicrophone(name) {
+   
+    var audioTracks = participants[name].rtcPeer.pc.getLocalStreams()[0].getAudioTracks();
+
+
+    // if MediaStream has reference to microphone
+    if (audioTracks[0]) {
+        audioTracks[0].enabled = false;
+    }
+}
+
 function leaveRoom() {
 	sendMessage({
 		id : 'leaveRoom'
