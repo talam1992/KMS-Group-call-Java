@@ -92,7 +92,8 @@ function callResponse(message) {
 
 function onExistingParticipants(msg) {
 	var constraints = {
-		audio : true,
+		/*audio : true,
+		*/
 		video : {
 			mandatory : {
 				maxWidth : 350,
@@ -120,6 +121,10 @@ function onExistingParticipants(msg) {
 	});
 
 	msg.data.forEach(receiveVideo);
+}
+
+function muteMicrophone(name) {
+    participants[name].rtcPeer.audio = false;
 }
 
 function leaveRoom() {
