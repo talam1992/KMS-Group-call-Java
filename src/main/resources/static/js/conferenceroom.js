@@ -92,8 +92,7 @@ function callResponse(message) {
 
 function onExistingParticipants(msg) {
 	var constraints = {
-		/*audio : true,
-		*/
+		audio : true,
 		video : {
 			mandatory : {
 				maxWidth : 350,
