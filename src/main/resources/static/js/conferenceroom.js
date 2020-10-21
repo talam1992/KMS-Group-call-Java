@@ -122,10 +122,6 @@ function onExistingParticipants(msg) {
 	msg.data.forEach(receiveVideo);
 }
 
-function muteMicrophone(name) {
-    participants[name].rtcPeer.audio = false;
-}
-
 function leaveRoom() {
 	sendMessage({
 		id : 'leaveRoom'
