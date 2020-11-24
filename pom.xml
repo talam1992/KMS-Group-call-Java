@@ -58,6 +58,7 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-client</artifactId>
+			<version>6.11.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.kurento</groupId>
