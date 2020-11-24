@@ -16,14 +16,7 @@
 	<name>Kurento Java Tutorial - Group Call</name>
 	<description>WebRTC many to many video call</description>
 
-	<!-- Project configuration -->
 
-	<properties>
-		<demo.port>8443</demo.port>
-		<start-class>org.kurento.tutorial.groupcall.GroupCallApp</start-class>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
-	</properties>
 
 	<dependencies>
 		<!-- Spring -->
