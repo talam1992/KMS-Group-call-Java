@@ -44,7 +44,7 @@ function Participant(name) {
 
 	video.id = 'video-' + name;
 	video.autoplay = true;
-	video.controls = false;
+	video.controls = true;
 
 
 	this.getElement = function() {

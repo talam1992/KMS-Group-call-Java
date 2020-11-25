@@ -1,6 +1,6 @@
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\CallHandler.java
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\RoomManager.java
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\Room.java
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\GroupCallApp.java
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\UserRegistry.java
-C:\Users\Timothy Lam\Documents\London South Bank University\PhD Computer Science and Informatics\WebRTC Project\KMS-Group-call-Java\src\main\java\org\kurento\tutorial\groupcall\UserSession.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/CallHandler.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/RoomManager.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/UserRegistry.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/Room.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/GroupCallApp.java
+/home/ubuntu/KMS-Group-call-Java/src/main/java/org/kurento/tutorial/groupcall/UserSession.java
