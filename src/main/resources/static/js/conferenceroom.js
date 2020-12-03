@@ -135,7 +135,7 @@ function leaveRoom() {
 	document.getElementById('room').style.display = 'none';
 
 	ws.close();
-	window.location.href = "http://stackoverflow.com";
+	window.location.href = "http://stackoverflow.com", '_blank';
 }
 
 function receiveVideo(sender) {
