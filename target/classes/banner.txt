@@ -6,5 +6,5 @@
    |   |_|\_\_,_|_| \___|_||_\__\___/   |
    |                                    |
    '------------------------------------'
-       Kurento Java - Group Call
+       Kurento Java Tutorial - Group Call
        Version 6.11.0
